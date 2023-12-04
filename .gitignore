@@ -56,3 +56,4 @@ build/
 *.lock
 
 upload_dsym_results
+.ios/Pods/
