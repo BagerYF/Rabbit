@@ -1,4 +1,8 @@
-# Rabbit
+# Rabbit E-commerce App
+
+## This is a mobile application built using React Native, available on both iOS and Android platforms. It is an e-commerce app based on Shopify services, and all functionalities and pages within it are developed using React Native.
+
+### React-Native iOS Android Shopify
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
